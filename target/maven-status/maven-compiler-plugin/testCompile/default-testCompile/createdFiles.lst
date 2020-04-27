@@ -1,0 +1,4 @@
+common\Utils.class
+tests\FnAddNewPet.class
+common\BaseTest.class
+common\petstoreAPI.class

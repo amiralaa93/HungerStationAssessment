@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automated Testing" duration-ms="4725" started-at="2020-04-27T19:13:55Z" finished-at="2020-04-27T19:14:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4725" started-at="2020-04-27T19:13:55Z" finished-at="2020-04-27T19:14:00Z">
+      <class name="common.petstoreAPI">
+        <test-method status="PASS" signature="run()[pri:0, instance:common.petstoreAPI@2b58f754]" name="run" duration-ms="4556" started-at="2020-04-27T19:13:55Z" finished-at="2020-04-27T19:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- common.petstoreAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Automated Testing -->
+</testng-results>
